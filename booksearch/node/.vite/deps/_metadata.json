@@ -1,0 +1,91 @@
+{
+  "hash": "c3ebefb3",
+  "configHash": "9f8915df",
+  "lockfileHash": "ba9d3a20",
+  "browserHash": "988ca8ba",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "136555aa",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "0a158612",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "b02d2ad7",
+      "needsInterop": true
+    },
+    "@mui/material": {
+      "src": "../../@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "6d381668",
+      "needsInterop": false
+    },
+    "@mui/material/CssBaseline": {
+      "src": "../../@mui/material/CssBaseline/index.js",
+      "file": "@mui_material_CssBaseline.js",
+      "fileHash": "b86e44ab",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "ae5ddd7d",
+      "needsInterop": false
+    },
+    "@mui/material/TextField": {
+      "src": "../../@mui/material/TextField/index.js",
+      "file": "@mui_material_TextField.js",
+      "fileHash": "fc0024a6",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "9ead3714",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "83d6b265",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-7VYGXGJF": {
+      "file": "chunk-7VYGXGJF.js"
+    },
+    "chunk-W6ZQJQJQ": {
+      "file": "chunk-W6ZQJQJQ.js"
+    },
+    "chunk-2M6P37AF": {
+      "file": "chunk-2M6P37AF.js"
+    },
+    "chunk-AHNPAJH6": {
+      "file": "chunk-AHNPAJH6.js"
+    },
+    "chunk-EMTWTEIY": {
+      "file": "chunk-EMTWTEIY.js"
+    },
+    "chunk-PKCEYGPT": {
+      "file": "chunk-PKCEYGPT.js"
+    },
+    "chunk-HSESELKR": {
+      "file": "chunk-HSESELKR.js"
+    },
+    "chunk-YAPSZIQJ": {
+      "file": "chunk-YAPSZIQJ.js"
+    },
+    "chunk-YJNMHHGL": {
+      "file": "chunk-YJNMHHGL.js"
+    }
+  }
+}
